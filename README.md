@@ -1,4 +1,4 @@
-Hello evryone
+Hello evreyone
 
 - 🔭 I’m currently working on Front-End-Developnment
 - 🌱 I’m currently learning Java and Data structures
