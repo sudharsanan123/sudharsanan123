@@ -9,6 +9,7 @@
 
 - 🔭 I’m currently working on **Front end development**
 
+- 🌱 I’m currently learning **java**
 
 - 👯 I’m looking to collaborate on **UI developer**
 
@@ -16,13 +17,9 @@
 
 - 📫 How to reach me **sanansudhar7@gmail.com**
 
-- 📄Reusme-https://drive.google.com/file/d/1EBlmZyO3Bj1C2CioMIQtx3tg7_Zl7sXY/view?usp=sharing
+- 📄Reusme [https://drive.google.com/file/d/11-i37akQeZDqhsoKcCdZsMwxsRybM2UG/view?usp=sharing](https://drive.google.com/file/d/11-i37akQeZDqhsoKcCdZsMwxsRybM2UG/view?usp=sharing)
 
 - ⚡ Fun fact **No fear when sudhar is here @sudharsanan123**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,8 +37,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sudharsananSR"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudharsananSR" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudharsanan123&show_icons=true&locale=en&layout=compact" alt="sudharsanan123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudharsanan123&show_icons=true&locale=en" alt="sudharsanan123" /></p>
 
