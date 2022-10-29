@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working on **Front end development**
 
-- 🌱 I’m currently learning **java**
 
 - 👯 I’m looking to collaborate on **UI developer**
 
