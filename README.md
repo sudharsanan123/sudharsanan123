@@ -36,8 +36,9 @@
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/sudharsananSR"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudharsananSR" /></a></p><br><br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sudharsanan123&show_icons=true&locale=en" alt="sudharsanan123" /></p>
+<p>&nbsp;<img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=sudharsanan123&show_icons=true&locale=en" alt="sudharsanan123" /></p>
 
-<p><img align="left"
+<p><img align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsanan123&" alt="sudharsanan123"   
   </p>
