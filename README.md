@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **UI development**
 
-- 💬 Ask me about **python,html,css**
+- 💬 Ask me about **Python,Html,Css**
 
 - 📫 How to reach me **sanansudhar7@gmail.com**
 
