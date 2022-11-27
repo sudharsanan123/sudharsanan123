@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Front end development**
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **mongo DB**
 
 - 👯 I’m looking to collaborate on **UI developer**
 
