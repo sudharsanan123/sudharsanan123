@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **mongo DB**
 
-- 👯 I’m looking to collaborate on **UI developer**
+- 👯 I’m looking to collaborate on **UI development**
 
 - 💬 Ask me about **python,html,css**
 
