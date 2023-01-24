@@ -42,3 +42,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudharsanan123&show_icons=true&locale=en" alt="sudharsanan123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsanan123&" alt="sudharsanan123" /></p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
