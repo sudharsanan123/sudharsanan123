@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudharsanan123" alt="sudharsanan123" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sudharsanansr" target="blank"><img src="https://img.shields.io/twitter/follow/sudharsanansr?logo=twitter&style=for-the-badge" alt="sudharsanansr" /></a> </p>
+
 
 - 🔭 I’m currently working on **Front end development**
 
