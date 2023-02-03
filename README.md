@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sanansudhar7@gmail.com**
 
-- 📄Resume(https://drive.google.com/file/d/1aN11RXzCiGbG2LTpGKBZDa_qJYjDBuI4/view?usp=sharing)
+- 📄Resume[(https://drive.google.com/file/d/1aN11RXzCiGbG2LTpGKBZDa_qJYjDBuI4/view?usp=sharing)](https://drive.google.com/file/d/1omXi2oybjkL4VwC8vfPCE-eJCMgHAKd0/view?usp=share_link)
 
 - ⚡ Fun fact **No fear when sudhar is here @sudharsanan123**
 
