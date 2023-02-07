@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=sudharsanan123" alt="sudharsanan123" /></a> </p>
 
-
-
 - 🔭 I’m currently working on **Front end development**
 
 - 👯 I’m looking to collaborate on **UI development**
