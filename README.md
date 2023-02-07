@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **Front end development**
 
-
-
 - 👯 I’m looking to collaborate on **UI development**
 
 - 💬 Ask me about **python,html,css**
