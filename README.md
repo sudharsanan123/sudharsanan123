@@ -12,7 +12,7 @@
 - 💬 Ask me about **python,html,css**
 
 - 📫 How to reach me **sanansudhar7@gmail.com**
-- 📄Resume https://drive.google.com/file/d/1kjqLKlZM7_m1RrBVka7JPbMlw4ll3MqZ/view?usp=share_link
+- 📄Resume https://drive.google.com/file/d/13cn4FDE5WaiAh7MfYmkHfZkVcgTbPMop/view?usp=share_link
 
 - ⚡ Fun fact **No fear when sudhar is here @sudharsanan123**
 
