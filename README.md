@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **UI development**
 
-- 💬 Ask me about **python,html,css**
+- 💬 Ask me about **Python,Html,Css,JavaScript**
 
 - 📫 How to reach me **sanansudhar7@gmail.com**
 - 📄Resume https://drive.google.com/file/d/13cn4FDE5WaiAh7MfYmkHfZkVcgTbPMop/view?usp=share_link
