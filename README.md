@@ -34,7 +34,7 @@
 <h3 align="center">Support:</h3>
 <h3 align="center"><a href="https://www.buymeacoffee.com/sanansudhau" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="55" width="174"></a></h3>
 <br>
-[![sudharsanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudharsanan123)](https://github.com/anuraghazra/github-readme-stats)
+![Sudharsanan S R's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudharsanan123&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsanan123&" alt="sudharsanan123" /></p>
    
