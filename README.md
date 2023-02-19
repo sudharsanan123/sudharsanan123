@@ -34,7 +34,10 @@
 <h3 align="center">Support:</h3>
 <h3 align="center"><a href="https://www.buymeacoffee.com/sanansudhau" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="55" width="174"></a></h3>
 <br>
-<picture>
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsanan123&" alt="sudharsanan123" /></p></td>
+    <td><picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=sudharsanan123&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -44,14 +47,8 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=sudharsanan123&show_icons=true" />
-</picture>
+</picture></td>
+  </tr>
+</table>
 
-<div class="row">
-  <div class="column">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsanan123&" alt="sudharsanan123" /></p>
-  </div>
-  <div class="column">
 
-  </div>
-
-</div>
