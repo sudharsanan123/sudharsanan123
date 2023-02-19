@@ -50,5 +50,3 @@
 </picture></td>
   </tr>
 </table>
-
-
