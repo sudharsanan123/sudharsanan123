@@ -46,7 +46,8 @@
   srcset="https://github-readme-stats.vercel.app/api?username=sudharsanan123&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=sudharsanan123&show_icons=true" />
+(https://github-readme-stats.vercel.app/api?username=sudharsanan123&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sudharsanan123/github-readme-stats#gh-dark-mode-only)
+
 </picture></td>
   </tr>
 </table>
