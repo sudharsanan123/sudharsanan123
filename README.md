@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **UI development**
 
-- 💬 Ask me about **Python,Html,Css,JavaScript**
+- 💬 Ask me about **Python,Html,Css,JavaScript-React**
 
 - My portfolio--https://sudharsanan123.github.io/sudharsanan-portfolio.github.io/
 
