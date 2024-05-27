@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Front end development**
 
-- 👯 I’m looking to collaborate on **UI development**
+- 👯 I’m looking to collaborate on **Development Side**
 
 - 💬 Ask me about **Python,Html,Css,JavaScript-React**
 
