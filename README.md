@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **sanansudhar7@gmail.com**
 
-- ⚡ Fun fact **No fear when sudhar is here @sudharsanan123**
-
 
 <h3 align="center">Support:</h3>
 <h3 align="center"><a href="https://www.buymeacoffee.com/sanansudhau" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="55" width="174"></a></h3>
