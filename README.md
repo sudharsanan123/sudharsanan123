@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Python,Html,Css,JavaScript-React**
 
-- My portfolio--https://sudharsanan123.github.io/sudharsanan-portfolio.github.io/
-
 - 📫 How to reach me **sanansudhar7@gmail.com**
 
 
